@@ -1,4 +1,12 @@
-p {
+#siteheading {color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#mathprompt {color: indigo;
+    font-size: large;
+}
+
+#inputrow {
     color: blueviolet;
     background-color: darkblue;
 }
