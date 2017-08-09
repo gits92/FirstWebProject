@@ -11,6 +11,12 @@
     background-color: darkblue;
 }
 
+#response {
+    color: red;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
 body {
     background-color: darkslategrey;
 }
